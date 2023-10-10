@@ -15,9 +15,11 @@ q-x
 ├── cours
 │   ├── notes
 │   ├── syntheses
+│   ├── exo
 │   └── questions
 └── tp-cours
     ├── notes
+    ├── exo
     ├── syntheses
     └── questions
 ```
@@ -32,9 +34,11 @@ notes = mes prises de notes !! NOTES / erreurs possibles, voir syntheses
 
 syntheses = mes syntheses
 
+exo = exercices vus au cours
+
 questions = questions pour anki, `SI VOUS DEMANDEZ, je peut faire un addon`
 
-## [Script note.sh](note.sh)
+## Script ```note.sh```
 
 #### Comming soon
 Idee : creer un script qui cree automatiquement des nouvelles notes pour chaque cours, par exemple : je suis en cours de reseau pour la troisieme fois, je lance le script, je lui dis de creer une nouvelle prise de note, il me cree le fichier note-3.md avec un modele dans le dossier /q-1/reseau/notes.
