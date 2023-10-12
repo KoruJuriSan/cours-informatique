@@ -13,22 +13,25 @@ Les dossiers seront aranger dans l'ordre suivant.
 ```md
 q-x
 ├── cours
+│   ├── supports
 │   ├── notes
 │   ├── syntheses
 │   ├── exo
 │   └── questions
 └── tp-cours
-    ├── notes
-    ├── exo
-    ├── syntheses
-    └── questions
+    ├── == cours theoriques.
+    .
+    .
+    .
 ```
 
 q-x = Quatrimestre x
 
-cours = nom du cours
+cours = nom du cours theorique
 
 tp-cours = nom du cours pratique
+
+supports = les supports de cours
 
 notes = mes prises de notes !! NOTES / erreurs possibles, voir syntheses
 
