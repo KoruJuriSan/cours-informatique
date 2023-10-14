@@ -89,13 +89,13 @@ stabilite                = oui
 
 ex python:
 ```py
-def insertion_sort(list, condtion):
+def insertion_sort(list, condition):
     tempon = 0
     transmutation = 0
     for key in range(1, len(list)):
         tempon = list[key]
         transmutation = key - 1
-        while transmutation > 0 and condtion(tempon, list[transmutation]):
+        while transmutation > 0 and condition(tempon, list[transmutation]):
             list[transmutation + 1] = list[transmutation]
             transmutation -= 1
         list[transmutation + 1] = tempon
