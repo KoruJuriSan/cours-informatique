@@ -53,9 +53,23 @@ spaciale: espace en memoire
 
 #### Tri a bulles
 
-parcour la liste, a chaque element le compare avec le suivant, si il est plus grand que le suivant il les interchanges.
+1. On parcour la liste a partir de la droite autant de fois qu'il y a d'elements dans la liste.
+2. a chaque fois on compare l'element avec celui a ca gauche, si la condition du tri est fausse on les inverses.
+3. a chaque etape on sais qu'un element a l'extreme gauche en plus est a la bonne position. On ne prendra plus en compte dans les prochaines iterations.
 
 utilite: facile a comprendre, l'un des pires tri possible.
+
+ex python:
+```py
+def bubble_sort(list, condition):
+    tempon = 0
+    for key in range(len(list)):
+        for transmutation in range(len(list)-1, key, -1):
+            tempon = list[transmutation]
+            if (condition(tempon, list[transmutation - 1])):
+                list[transmutation] = list[transmutation - 1]
+                list[transmutation - 1] = tempon
+```
 
 Complexite:
 ```txt
@@ -68,10 +82,24 @@ stabilite                = oui
 
 #### Tri par insertion
 
-1. parcourt la liste, a chaque element
-2. le retire du tableau, la met dans une variable tempon
-3. deplace tout les elements a gauche de l'element vers la droite jusqu'a en trouver un plus petit.
-4. depose le tempon a cet endroit.
+1. parcourt la liste a partir du deuxieme element a gauche autant de fois qu'il y a d'elements dans la liste.
+2. On stocke l'element dans un tempon.
+3. On compare tous les elements precedents avec notre element, tant que la condition est vraie on les deplaces de un vers la droite.
+4. Une fois que la condition est fausse, on place notre tempon juste a droite de l'element declencheur.
+
+ex python:
+```py
+def insertion_sort(list, condtion):
+    tempon = 0
+    transmutation = 0
+    for key in range(1, len(list)):
+        tempon = list[key]
+        transmutation = key - 1
+        while transmutation > 0 and condtion(tempon, list[transmutation]):
+            list[transmutation + 1] = list[transmutation]
+            transmutation -= 1
+        list[transmutation + 1] = tempon
+```
 
 utilite: le tri de petite liste ou liste presque deja trie.
 
