@@ -93,8 +93,8 @@ Le derrnier element pointe vers le premier.
 
 ### Principes de files et piles.
 
-les files (LIFO): Last In First Out
-les Piles (FIFO): First In First Out
+- files: FIFO (First In First Out)
+- piles: LIFO (Last In First Out)
 
 ## Exercices
 
