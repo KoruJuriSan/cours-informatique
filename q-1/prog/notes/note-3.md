@@ -3,11 +3,9 @@
 
 ### Algorithmie
 
-Algorithme: Moyen de resoudre un probleme de maniere systematique.
+Algorithme: Moyen de resoudre un probleme de maniere systematique. Transformation d'une solution en language parler en code comprehensible par la machine.
 
 En Algorithmie, l'ordinateur ne prend pas d'initiative, on evite donc les embiguites
-
-Algorithmie: Transfomrmation d'une solution en language parler en code comprehensible par la machine.
 
 #### Trois regles d'un algorithme
 
