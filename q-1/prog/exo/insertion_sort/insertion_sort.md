@@ -28,7 +28,7 @@ pour int i = 1, i > taille list, i++
     tant que transmutation > 0 et que la condition avec l'element i et l'element transmutation est vraie
         l'element transmutation + 1 de list = l'element transmutation de list
         transmutation--
-    l'element transmutation + 1 = tempon
+    l'element transmutation de list + 1 = tempon
 ```
 
 ### Code python
