@@ -192,8 +192,8 @@ Efficacite d'un coeur de CPU: IPC = Instructions per cycles
 
 
 Il existe des coeurs plus ou moins performant / energivore
-> + Perf = + Energie = plus grand
-> - Perf = - Energie = plus petit
+> +Perf = + Energie = plus grand
+> -Perf = - Energie = plus petit
 
 #### Stockages de donnes en interaction avec le CPU.
 | Type      | Latence | Debit   | Cout   |
@@ -211,21 +211,22 @@ Il existe des coeurs plus ou moins performant / energivore
 | Intel  | 1090, 1356, 1440 | 1151, 1200, 2066 | 2066, 3647 |
 | AMD    | FP5, FP6         | TRx4, AM4        | SP3        |
 
-Intel: xxxx
+En general:
 
-AMD : AAx
+- Intel: xxxx
+- AMD : AAx
 
 #### Overclocking, Undervolting
 
+- Overcloking: Augmentation de la freqence d'horloge du CPU pour augmenter la cadence de celui-ci !! PLUS DE CHALEUR !!
+
+- Undervolting: Reduction du voltage du CPU pour diminuer la production de chaleur de celui-ci !! Reduit la puissance du CPU !!
+
+- Turboboost: Overclocking automatique si on n'utilise moins de coeurs, moins on utilise de coeurs plus l'overcloking et la frequence est eleve, plus on utilise de coeurs moins elle l'est.
+
+- Throttling: Processeur qui se met en econnomie pour diminuer la temperature de celui-ci, puis qui une fois descendu reactive son mode normal et rechauffe donc retombe en mode econnomie....
+
 > !! SI LA TEMPERATURE DU CPU EST TROP ELEVE ALORS IL RALENTI AUTOMATIQUEMENT POUR REFROIDIR !!
-
-> Overcloking: Augmentation de la freqence d'horloge du CPU pour augmenter la cadence de celui-ci !! PLUS DE CHALEUR !!
-
-> Undervolting: Reduction du voltage du CPU pour diminuer la production de chaleur de celui-ci !! Reduit la puissance du CPU !!
-
-> Turboboost: Overclocking automatique si on n'utilise moins de coeurs, moins on utilise de coeurs plus l'overcloking et la frequence est eleve, plus on utilise de coeurs moins elle l'est.
-
-> Throttling: Processeur qui se met en econnomie pour diminuer la temperature de celui-ci, puis qui une fois descendu reactive son mode normal et rechauffe donc retombe en mode econnomie....
 
 #### TDP / Thermal Design Power
 Puissance d'un CPU en Watts / Production de chaleur.
@@ -255,23 +256,23 @@ flush: Principe de faire des predictions sur des futures valeurs.
 
 !! Le developpeur ne peut rien y faire !!
 
+#### Frequence vs Coeurs
+
+- pour les jeux video: frequence+++ coeurs--
+
+- pour les rendus: coeurs+++ frequence--
+
 ### Benchmarks
 
 Logiciel qui evalue les performances d'un ordinateur
 
 #### Benchmarks synthetiques
 
-Benchmarks qui evalue les performances de maniere simplifiee par des test brut qui ne sont pas representatifs.
+- Benchmarks qui evalue les performances de maniere simplifiee par des test brut qui ne sont pas representatifs.
 
 #### Benchmarks applicatifs
 
-Benchmarks qui evalue les performances en pratique avec des tests sur des jeux, logiciels, etc...
-
-#### Frequence vs Coeurs
-
->pour les jeux video: frequence+++ coeurs--
-
->pour les rendus: coeurs+++ frequence--
+- Benchmarks qui evalue les performances en pratique avec des tests sur des jeux, logiciels, etc...
 
 ## Exercices :
 
