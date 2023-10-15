@@ -13,14 +13,14 @@ Les dossiers seront aranger dans l'ordre suivant.
 ```md
 q-x
 ├── cours
-│   ├── supports
-│   ├── notes
-│   ├── syntheses
 │   ├── exo
-│   └── questions
+│   ├── images
+│   ├── notes
+│   ├── questions
+│   ├── supports
+│   └── syntheses
 └── tp-cours
     ├── == cours theoriques.
-    .
     .
     .
 ```
@@ -31,15 +31,19 @@ cours = nom du cours theorique
 
 tp-cours = nom du cours pratique
 
-supports = les supports de cours
+exo = exercices vus au cours
+
+images = images utilise dans les fichier markdown
 
 notes = mes prises de notes !! NOTES / erreurs possibles, voir syntheses
+
+questions = questions pour anki, `Addon: Coming Later.`
+
+supports = les supports de cours
 
 syntheses = mes syntheses
 
 exo = exercices vus au cours
-
-questions = questions pour anki, `SI VOUS DEMANDEZ, je peut faire un addon`
 
 ## Script ```note.sh```
 
