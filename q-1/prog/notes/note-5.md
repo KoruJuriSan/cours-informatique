@@ -114,16 +114,18 @@ stabilite                = oui
 
 #### Tri par fusion
 
-1. Separer la liste en deux, si impaire choisir arbitrairement, le faire aussi sur chaque morceau de la liste jusqu'a avoir des listes de un element au max.
-2. comparer les liste entre elle et remonter en les tirant entre elle.
+1. Separer la liste en deux tant que chaque sous-liste ne sont pas composees d'un seul element.
+2. Comparer les elements des sous-listes entre eux en partant du debut de chaque liste. Si la condition est vraie, on place l'element de cette liste au debut et on continue de comparer les elements des listes entre eux.
+3. Quand une liste est vide d'element, on place tous ceux de l'autre a la fin et on remonte.
+4. On continue de remonter jusqu'a finir le tri.
 
 utilite: facile a mettre en place et tres efficace en general.
 
 Complexite:
 ```txt
-meilleur cas temporelle  = log n
-moyen cas temporelle     = log n
-pire cas temporelle      = log n
+meilleur cas temporelle  = n log n
+moyen cas temporelle     = n log n
+pire cas temporelle      = n log n
 complexite spatiale      = n
 stabilite                = oui
 ```
@@ -131,11 +133,11 @@ stabilite                = oui
 #### Tri rapide
 
 1. Choisir un element "pivot" dans la liste, le choix est libre.
-2. parcourir tous les elements avant le pivot a partir de l'extreme gauche pour trouver un element qui est plus grand que lui. Ne va pas plus loin que le pivot
-3. parcourir toues les elements apres le pivot a partir de l'extreme droite pour trouver un element qui est plus petit que lui. Ne va pas plus loin que le pivot
-4. Inverser l'element plus petit que le pivot avec celui qui est plus grand. Si un des pointeur est sur le pivot on inverse l'autre pointeur avec le pivot. Si les deux pointeur son sur le pivot, alors le pivot est a la bonne position
-5. On serpare la liste en deux a partir du pivot sans le prendre en compte.
-6. On applique la technique du dessus jusqu'a avoir tous les elements trie. (listes de un elements.)
+2. Parcourir tous les elements avant le pivot à partir de l'extreme gauche pour trouver un element qui est plus grand que lui. Ne va pas plus loin que le pivot.
+3. Parcourir tous les elements après le pivot à partir de l'extreme droite pour trouver un element qui est plus petit que lui. Ne va pas plus loin que le pivot.
+4. Inverser l'element plus petit que le pivot avec celui qui est plus grand. Si un des pointeur est sur le pivot, inversez l'autre pointeur avec le pivot. Si les deux pointeurs sont sur le pivot, alors le pivot est a la bonne position.
+5. On separe la liste en deux a partir du pivot sans le prendre en compte.
+6. On applique la technique du dessus jusqu'a avoir tous les elements tries (listes de un elements).
 
 utilite: dans le tri de longue listes, en pratique il est tres efficace car le pire cas est tres rare, mais pas facile a mettre en place.
 
