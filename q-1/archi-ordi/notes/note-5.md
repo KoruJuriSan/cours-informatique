@@ -145,3 +145,4 @@ plus de debit vers l'exterieur du plateau
 8. IOPS
 9. Cache
 
+1-4: influence sur les debits.
