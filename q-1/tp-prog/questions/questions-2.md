@@ -1,7 +1,7 @@
 Comment faire un if statement en python ? Donne les differentes fonctionnalites.
 ```
 if: execute son code si la condition est vraie
-elif: execute son code si le if et les elif precedant sont - faux et que ca condition est vraie
+elif: execute son code si le if et les elif precedant sont faux et que ca condition est vraie
 else: execute son code si le if et les elif sont faux
 ```
 
