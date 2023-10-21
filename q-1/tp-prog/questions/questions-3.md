@@ -38,7 +38,6 @@ var1, var2, ... = valeur1, valeur2, ...
 comment faire une boucle foreach en python ?
 ```
 for e in my_list: # itere autant de fois qu'il y a d'element dans la liste et le stocke dans 'e' a chaque iteration
-        print(e) # print l'element e de la liste
 ```
 
 C'est quoi la coprehension de liste en python ? Que remplace-elle
@@ -48,9 +47,7 @@ my_list = [variable for ...variable if condition sur variable]
 equivalent to:
 
 my_list = []
-for variable in ...:
-    if (condtion):
-        my_list.append(variable)
+for variable in ...: if (condtion): my_list.append(variable)
 ```
 
 fait un tri a bulle en python. Test avec [1, 4, 3, 2, 6, 5]
