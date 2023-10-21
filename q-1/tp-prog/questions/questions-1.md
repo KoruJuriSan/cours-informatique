@@ -60,7 +60,7 @@ L'operateur de division entiere en python.
 L'operateur de modulo en python.
 > card type: entry
 ```
-+
+%
 ```
 
 L'operateur d'exposant en python.
