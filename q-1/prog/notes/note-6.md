@@ -4,7 +4,8 @@
 
 Permet de stocker les donnees meme si le programme n'est pas lance.
 
-Fichier: Une unite de stockage logique, un nom, une extension (format).
+Fichier: Une unite de stockage logique avec un nom et une extension (format). 
+
 Systeme de fichier: partie du systeme d'exploitation responsable de la gestion des fichiers et droits.
 
 Chemin relatif: Chemin qui ne depend pas du root (./Documents SI JE SUIS DANS user.)
@@ -57,7 +58,7 @@ est execute si:
 
 les tests sont dans leurs propres fichiers a part
 
-test-frist = ecrire les tests avant d'intergrer
+test-first = ecrire les tests avant d'intergrer
 
 type de tests:
 Tests unitaires.
