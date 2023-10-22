@@ -33,7 +33,6 @@ Comment bien effacer les donnees d'un HDD ?
 Il faut le reecrire entierement au MOINS 7 fois (mieux plus)
 ```
 
-
 Donne le temps de retention min d'un HDD.
 ```
 5ans

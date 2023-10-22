@@ -24,12 +24,12 @@ Combien de ai-je besoin de RAM pour un serveur (min-max) ?
 ~4Go-4To
 ```
 
-C'est quoi le Multiranks.
+C'est quoi le Multiranks de la RAM.
 ```
 C'est le nombre de sortie qu'a une RAM, plus elle en a mieux c'est.
 ```
 
-C'est quoi le Multichannel ? Quels sont les risques et avantages ? En general on a ?
+C'est quoi le Multichannel de la RAM ? Quels sont les risques et avantages ? En general on a ?
 ```
 - Permet a plusieurs slots de RAM d'etre en couple.
 - Que le couple ne soit pas composer de meme barettes, alors elle sont toutes les deux brider au niveau de la moins bonne.
@@ -87,7 +87,7 @@ Donne l'audre nom du SSD.
 Disque dur electronique
 ```
 
-C'est quoi un SSHD
+C'est quoi un SSHD ?
 ```
 C'est un HDD avec un cache SSD
 ```
