@@ -1,4 +1,4 @@
-Combien de coulombs vaut un apere-heure ?
+Combien de coulombs vaut un ampere-heure ?
 > card type: input
 ```
 3600
@@ -9,42 +9,42 @@ Quel est la formule de la vitesse ?
 v = d / t
 ```
 
-Quel est l'unite en desous de l'unite, quel est son decalage avec l'unite ?
+Quel est l'unite en dessous de l'unite, quel est son decalage avec l'unite ?
 ```
 deci, 1
 ```
 
-Quel est l'unite en desous du deci, quel est son decalage avec le deci ?
+Quel est l'unite en dessous du deci, quel est son decalage avec le deci ?
 ```
 centi, 1
 ```
 
-Quel est l'unite en desous du centi, quel est son decalage avec le centi ?
+Quel est l'unite en dessous du centi, quel est son decalage avec le centi ?
 ```
 mili, 1
 ```
 
-Quel est l'unite en desous du mili, quel est son decalage avec le mili ?
+Quel est l'unite en dessous du mili, quel est son decalage avec le mili ?
 ```
 micro, 3
 ```
 
-Quel est l'unite en desous du micro, quel est son decalage avec le micro ?
+Quel est l'unite en dessous du micro, quel est son decalage avec le micro ?
 ```
 nano, 3
 ```
 
-Quel est l'unite en desous du nano, quel est son decalage avec le nano ?
+Quel est l'unite en dessous du nano, quel est son decalage avec le nano ?
 ```
 pico, 3
 ```
 
-Quel est l'unite en desous du pico, quel est son decalage avec le pico ?
+Quel est l'unite en dessous du pico, quel est son decalage avec le pico ?
 ```
 femto, 3
 ```
 
-Quel est l'unite en desous du femto, quel est son decalage avec le femto ?
+Quel est l'unite en dessous du femto, quel est son decalage avec le femto ?
 ```
 atto, 3
 ```
@@ -129,7 +129,7 @@ Une resistance purement calorique (Chauffe beacoup)
 
 Quel est la hierarchie des couleurs d'unite et d'ohms du tableau des couleurs des resistances. Trois colonnes (Couleur, Unite, Ohms).
 ```
-Hierarchie des couleurs.
+Hierarchie des couleurs d'unite.
 | Color   | Unit | Ohms       |
 | ------- | ---- | ---------- |
 | Argent  | -    | 0,01       |
@@ -148,6 +148,7 @@ Hierarchie des couleurs.
 
 Quel est la hierarchie des couleurs des tolerances du tableau des couleurs des resistances. Trois colonnes (Couleur, Unite, Ohms).
 ```
+Hierarchie des couleurs des tolerances.
 | Color  | Tolerance |
 | ------ | --------- |
 | Gris   | ±0.05%    |
