@@ -11,7 +11,3 @@
 ### Quelle commande permet d'enregistrer le fichier de configuration contenu dans la mémoire vive (RAM) en mémoire NVRAM ?
 
 - copy run st
-
-## Info pour exams
-
-> FIN d'annee / mot de passes(console, privilleged), banniere. Meme si pas dans les consignes
