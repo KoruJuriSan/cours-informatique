@@ -68,7 +68,7 @@ Modifier la date, l'heure, les minutes et les secondes.
 
 Sauvegarder la configuration actuelle dans la NVRAM.
 ```
-copy running-config startup-config
+# copy running-config startup-config
 ```
 
 ### Configuration globale.
