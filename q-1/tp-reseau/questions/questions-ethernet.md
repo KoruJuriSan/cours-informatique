@@ -109,3 +109,9 @@ Donne une chose à ne surtout pas faire avec les câbles Ethernet sous risque d'
 ```
 - Ne pas placer le câble trop près de sources électriques/électromagnétiques.
 ```
+
+Quelle est la longueur maximale d'un câble Ethernet ? En théorie et en pratique.
+```
+- 100m
+- 70m-90m en pratique.
+```

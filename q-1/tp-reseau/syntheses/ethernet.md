@@ -87,7 +87,12 @@ Foiled / Unshielded Twisted Quad
 | 6a        | Bande passante, 10G/s sur 100m |
 | 7         | Bande passante, min S/FTP      |
 
-# Choses à ne pas faire
+## Longeur moyenne
+
+- 100m
+- 70-90m en pratique.
+
+## Choses à ne pas faire
 
 ### Risque de casser le câble
 
