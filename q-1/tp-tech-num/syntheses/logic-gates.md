@@ -9,7 +9,7 @@
 #### Representation:
 | USA | Europe |
 | --- | ------ |
-| ![1699023904084](image/logic-operators/1699023904084.png) | ![1699024365135](image/logic-operators/1699024365135.png) |
+| ![1699023904084](image/logic-gates/1699023904084.png) | ![1699024365135](image/logic-gates/1699024365135.png) |
 
 ---
 
@@ -22,7 +22,7 @@
 #### Representation:
 | USA | Europe |
 | --- | ------ |
-| ![1699022178472](image/logic-operators/1699022178472.png) | ![1699022204011](image/logic-operators/1699022204011.png) |
+| ![1699022178472](image/logic-gates/1699022178472.png) | ![1699022204011](image/logic-gates/1699022204011.png) |
 
 ---
 
@@ -36,7 +36,7 @@
 
 | USA | Europe |
 | --- | ------ |
-| ![1699022282949](image/logic-operators/1699022282949.png) | ![1699022300414](image/logic-operators/1699022300414.png) |
+| ![1699022282949](image/logic-gates/1699022282949.png) | ![1699022300414](image/logic-gates/1699022300414.png) |
 
 ---
 
@@ -49,7 +49,7 @@
 #### Representation
 | USA | Europe |
 | --- | ------ |
-| ![1699022535620](image/logic-operators/1699022535620.png) | ![1699022550812](image/logic-operators/1699022550812.png) |
+| ![1699022535620](image/logic-gates/1699022535620.png) | ![1699022550812](image/logic-gates/1699022550812.png) |
 
 ---
 
@@ -62,7 +62,7 @@
 #### Representation
 | USA | Europe |
 | --- | ------ |
-| ![1699022698616](image/logic-operators/1699022698616.png) | ![1699022708402](image/logic-operators/1699022708402.png) |
+| ![1699022698616](image/logic-gates/1699022698616.png) | ![1699022708402](image/logic-gates/1699022708402.png) |
 
 ---
 
@@ -75,7 +75,7 @@
 #### Representation
 | USA | Europe |
 | --- | ------ |
-| ![1699023019258](image/logic-operators/1699023019258.png) | ![1699023030506](image/logic-operators/1699023030506.png) |
+| ![1699023019258](image/logic-gates/1699023019258.png) | ![1699023030506](image/logic-gates/1699023030506.png) |
 
 ---
 
@@ -87,4 +87,4 @@
 
 | USA | Europe |
 | --- | ------ |
-| ![1699023470992](image/logic-operators/1699023470992.png) | ![1699023481021](image/logic-operators/1699023481021.png) |
+| ![1699023470992](image/logic-gates/1699023470992.png) | ![1699023481021](image/logic-gates/1699023481021.png) |
