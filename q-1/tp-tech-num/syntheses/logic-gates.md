@@ -11,6 +11,8 @@
 | --- | ------ |
 | ![1699023904084](image/logic-operators/1699023904084.png) | ![1699024365135](image/logic-operators/1699024365135.png) |
 
+---
+
 ### AND
 
 - Two inputs $A, B$, if both inputs are true, then the output is true.
