@@ -14,7 +14,7 @@ Example with XOR.
 
 More complex example. (3 input variables)
 | a | b | c | result |
-| - | - | - | ------- |
+| - | - | - | ------ |
 | 0 | 0 | 0 |   0    |
 | 0 | 0 | 1 |   1    |
 | 0 | 1 | 0 |   1    |
