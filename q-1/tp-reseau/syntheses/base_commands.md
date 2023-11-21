@@ -98,6 +98,24 @@ Changer la bannière de connexion.
 (config)# banner motd "{banner}"
 ```
 
+### Configuration des lignes VTY (SSH/Telnet)
+
+Entrer en mode de configuration des lignes VTY
+```
+(config)# line vty 0 4
+(config-line)#
+```
+
+Changer le mot de passe d'acces au switch via VTY
+```
+(config-line)# password {password}
+```
+
+Activer le systeme de mot de passe des lignes.
+```
+(config-line)# login
+```
+
 ### Configuration du port console.
 
 Entrer en mode de configuration du port console.
