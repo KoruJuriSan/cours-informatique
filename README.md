@@ -19,6 +19,8 @@ q-x
 │   ├── questions
 │   ├── supports
 │   └── syntheses
+│   └── projets
+│       └── projet-x
 └── tp-cours
     ├── == cours theoriques.
     .
