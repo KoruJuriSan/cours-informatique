@@ -32,9 +32,9 @@
     - [] questions
     - [] anki cards
 
-# Matrice
-- [] Matrice
-    - [] pages 58-79
+# Matrix
+- [] Matrix
+    - [x] pages 58-79
     - [] exos
     - [] questions
     - [] anki cards
