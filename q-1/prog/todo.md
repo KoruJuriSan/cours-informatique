@@ -1,12 +1,14 @@
 # Compression Algorithm
 - [] Compression Algorithm
-    - [] Summary
+    - [] Summary LZW
+    - [] Summary Huffman
     - [] Questions
     - [] Anki Cards
 
 # Insertion Sort, Quicksort
 - [] Insertion Sort, Quicksort
-    - [] Summary
+    - [] Summary Insertion Sort
+    - [] Summary Quicksort
     - [] Questions
     - [] Anki Cards
 
