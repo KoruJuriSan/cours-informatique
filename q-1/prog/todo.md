@@ -2,14 +2,14 @@
 - [] Compression Algorithm
     - [] Summary LZW
     - [] Summary Huffman
-    - [] Questions
+    - [x] Questions
     - [] Anki Cards
 
 # Insertion Sort, Quicksort
 - [] Insertion Sort, Quicksort
-    - [] Summary Insertion Sort
-    - [] Summary Quicksort
-    - [] Questions
+    - [x] Summary Insertion Sort
+    - [x] Summary Quicksort
+    - [x] Questions
     - [] Anki Cards
 
 # Files (Backup, Organization, Types of Opening, Paths)
@@ -20,7 +20,7 @@
 
 # Lists (STACKS and QUEUES)
 - [] Lists (STACKS and QUEUES)
-    - [] Summary
+    - [x] Summary
     - [] Questions
     - [] Anki Cards
 
