@@ -1,11 +1,15 @@
 # Bases
 - [] Bases
-    - [] Summary
+    - [] Summary Laws
+    - [] Summary Calculs
+    - [] Summary Theory
     - [] Questions
     - [] Anki
 
 # Electrostatic
 - [] Electrostatics
-    - [] Summary
+    - [] Summary Laws
+    - [] Summary Calculs
+    - [] Summary Theory
     - [] Questions
     - [] Anki
