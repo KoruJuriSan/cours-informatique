@@ -1,6 +1,6 @@
 # Bases
 - [] Bases
-    - [] Summary Laws
+    - [x] Summary Laws
     - [] Summary Calculs
     - [] Summary Theory
     - [] Questions
