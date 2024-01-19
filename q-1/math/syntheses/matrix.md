@@ -176,6 +176,8 @@ $ A+B =
     \end{array} } \right]
     $
 
+> the minor, is the determinant of a specific point of the original matrix.
+
 > This method works by recursion for those who like programming.
 
 ### Inversion |!|

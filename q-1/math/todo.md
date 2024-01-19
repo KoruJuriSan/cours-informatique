@@ -20,8 +20,8 @@
 
 # Trigonometry
 - [] Trigonometry
-    - [] pages 31-48
-    - [] exos
+    - [x] pages 31-48
+    - [x] exos
     - [] questions
     - [] anki cards
 
@@ -35,6 +35,6 @@
 # Matrix
 - [] Matrix
     - [x] pages 58-79
-    - [] exos
+    - [x] exos
     - [] questions
     - [] anki cards
