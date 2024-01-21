@@ -1,8 +1,8 @@
 # Bases
 - [] Bases
     - [x] Summary Laws
-    - [] Summary Calculs/Schema
-    - [] Summary Theory
+    - [x] Summary Calculs/Schema
+    - [x] Summary Theory
     - [] Questions
     - [] Anki
 
