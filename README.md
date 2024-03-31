@@ -1,4 +1,8 @@
-# Cours d'informatique Bloc-1 de la HEH.
+# ⚠️ Ce repo bouge vers -> trifoil/SchoolWork ⚠️
+
+- https://github.com/trifoil/SchoolWork
+
+## Cours d'informatique Bloc-1 de la HEH.
 Je prends des notes sur mon cours d'informatique du bloc 1 a la HEH, avec l'espoir que ces notes seront utiles a quelqu'un qui souhaite reussir. Cependant, je comprends que tout le monde n'a pas necessairement le temps que j'ai pris pour maintenir constamment a jour ce github.
 
 ## Disclaimer
